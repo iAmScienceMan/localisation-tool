@@ -21,6 +21,14 @@
 2. **Create** — создаёт файлы в `wip/` с ключами для перевода
 3. **Both** — выполняет Check + Create за один запуск
 
+### Скачать готовую версию
+
+**Не хочешь собирать?** Скачай готовый бинарник для своей платформы:
+
+👉 [Скачать релиз](https://github.com/iAmScienceMan/localisation-tool/releases/latest)
+
+Доступны версии для Windows, Linux и macOS (Intel/Apple Silicon).
+
 ### Установка Go
 
 #### macOS
@@ -167,6 +175,14 @@ Tool for checking Hearts of Iron IV mod localization completeness:
 1. **Check** — compares keys between localizations (rus/eng), shows untranslated keys
 2. **Create** — generates files in `wip/` with keys needing translation
 3. **Both** — runs Check + Create in one pass
+
+### Download Pre-built Binary
+
+**Don't want to build?** Download a ready-to-use binary for your platform:
+
+👉 [Download Latest Release](https://github.com/iAmScienceMan/localisation-tool/releases/latest)
+
+Available for Windows, Linux, and macOS (Intel/Apple Silicon).
 
 ### Installing Go
 
