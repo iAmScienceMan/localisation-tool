@@ -300,7 +300,7 @@ chmod +x loc_tool_go
 
 ## 📝 License
 
-EPL-2.0
+MIT
 
 ## 👤 Author
 

@@ -9,10 +9,10 @@ import (
 )
 
 const (
-	version = "2.0.0-go"
+	version = "3.0.0"
 	author  = "iAmScienceMan"
 	project = "East-Showdown"
-	license = "EPL-2.0"
+	license = "MIT"
 	motto   = "Femboys rule the world"
 )
 
